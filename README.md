@@ -12,6 +12,10 @@ O objetivo desse projeto é aplicar os aliar os conhecimentos sobre React Native
 ## :memo: Sobre a aplicação
 Essa é uma aplicação puramente front-end, nela você pode simular o funcionamento de duas estruturas de dados: lista dinâmica duplamente encadeada (doubly linked list) e fila estática circular (static circular queue). Dentro da aplicação é possível inserir, remover e buscar uma informação nas estruturas, além de obter explicações sobre o funcionamento dessas manipulações.
 
+<p align="center">
+  <img src="./.github/screen1.png" width=250 />
+</p>
+
 ## :hammer: Tecnologias utilizadas
 - Typescript
 - React Native
