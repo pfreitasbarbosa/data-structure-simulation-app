@@ -14,6 +14,7 @@ Essa é uma aplicação puramente front-end, nela você pode simular o funcionam
 
 <p align="center">
   <img src="./.github/screen1.png" width=250 />
+  <img src="./.github/screen2.png" width=250 />
 </p>
 
 ## :hammer: Tecnologias utilizadas

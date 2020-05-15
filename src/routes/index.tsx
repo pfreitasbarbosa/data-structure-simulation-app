@@ -11,6 +11,7 @@ const Routes: React.FC = () => (
   <Tab.Navigator
     initialRouteName="LDDE"
     tabBarOptions={{
+      keyboardHidesTabBar: true,
       activeTintColor: '#0996F2',
       inactiveTintColor: '#DCDCDF',
       style: { borderTopWidth: 0 },

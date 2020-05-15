@@ -6,6 +6,8 @@ import { NavigationContainer } from '@react-navigation/native';
 
 import Routes from './routes';
 
+console.disableYellowBox = true;
+
 const App: React.FC = () => (
   <NavigationContainer>
     <StatusBar backgroundColor="#07080B" barStyle="light-content" />
